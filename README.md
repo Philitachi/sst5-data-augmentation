@@ -8,4 +8,4 @@ The source code used to perform backtranslation-based data augmentation on the S
 
 The resulting augmented dataset, including both the original and backtranslated samples.
 
-This work was developed as part of a thesis project on sentiment analysis and dataset enhancement techniques.
+This work was developed as part of a thesis project on text classification and dataset enhancement techniques.
